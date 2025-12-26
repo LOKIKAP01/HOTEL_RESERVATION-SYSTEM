@@ -61,15 +61,6 @@ CREATE TABLE reservations (
 
 ---
 
-## 📚 Future Improvements
-
-* Add a **web interface** using JSP/Servlet or Spring Boot
-* Export reservation data to PDF or CSV
-* Add **user authentication**
-* GUI version with JavaFX or Swing
-
----
-
 ## 🧑‍💻 Author
 
 * [Lokesh Kaprawan](https://github.com/LOKIKAP01)
