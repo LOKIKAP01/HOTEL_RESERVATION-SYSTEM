@@ -72,7 +72,7 @@ CREATE TABLE reservations (
 
 ## 🧑‍💻 Author
 
-* [Pranav Chamoli](https://github.com/PranavChamoli06)
+* [Lokesh Kaprawan](https://github.com/LOKIKAP01)
 
 ---
 
